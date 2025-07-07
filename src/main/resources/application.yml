@@ -1,0 +1,7 @@
+spring:
+  crossOriginUrl: http://localhost:4200
+aws:
+  s3Bucket:
+    name: tuki-image-bucket
+  dynamoDB:
+    name: ImagesTable
